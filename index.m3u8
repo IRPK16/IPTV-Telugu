@@ -132,10 +132,6 @@ https://mahi.radioca.st/stream
 #EXTINF:-0 tvg-id="ts959" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/330px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
 http://103.131.214.129:9985/stream/channelid/1786281780?ticket=9BEBAF5529884DF28FCB6F699EEC3640C2FBC2EA&profile=pass
 
-
-#EXTM3U
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/C59GzGCp/7-11-PM-2023.jpg",7:11 PM (2023)
-https://s.id/1ZmUc
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/c4gHhyWm/image_40.png",11th Hour (2023) S01E01-04
 https://s.id/1ZobT
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/c4gHhyWm/image_40.png",11th Hour (2023) S01E05-08
@@ -198,32 +194,6 @@ https://s.id/1ZWjS
 https://s.id/1ZuvI
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/rwzL650Y/Extra-Ordinary-Man-2023.jpg",Extra Ordinary Man (2023)
 https://s.id/20Dth
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/N0JyBSL1/Family-switch-poster.jpg",Family Switch (2023)
-https://s.id/1ZnfE
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/o82pcKR.jpg",Fast X (2023)
-https://s.id/1ZnjQ
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/8z50x4Dz/Fighter-2024.jpg",Fighter (2024)
-https://s.id/2128g
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/YSnKT0fm/Firey-Dekha-2023.jpg",Firey Dekha (2023)
-https://s.id/1ZxWH
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/gJxFppNt/Friday-2023.jpg",Friday (2023)
-https://s.id/1ZrnQ
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/05JRH86b/Fukrey-3-2023.jpg",Fukrey 3 (2023)
-https://s.id/1Zxfu
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/prqhqyJX/Gangster-Returns-2023.jpg",Gangster Returns (2023)
-https://s.id/1ZxX8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/9F536vT1/Ghoomer-2023.jpg",Ghoomer (2023)
-https://s.id/1Zxfw
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/7hDyjc0g/Ghosted-2023.jpg",Ghosted (2023)
-https://s.id/20Dtq
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/kXnqnyXY/Godzilla-Minus-One-Poster.jpg",Godzilla Minus One (2023) 
-https://s.id/1Zn3q
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/CLrn8BKc/GPL-2023.jpg",GPL (2023)
-https://s.id/1ZxWP
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYOJTOv.jpg",Guardians of the Galaxy Vol 3 (2023)
-https://s.id/1ZngH
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/6qZk70sd/Gumraah-2023.jpg",Gumraah (2023)
-https://s.id/1Zxgt
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/CLGySms0/Hanu-Man-2024.jpg",Hanu Man (2024)
 https://s.id/1ZWmA
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/8CCxdDQk/Her-Chapter-1-2023.jpg",Her - Chapter 1 (2023)
