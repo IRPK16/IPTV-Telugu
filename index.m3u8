@@ -108,7 +108,8 @@ https://maxhd.icu/Dhootha%20(2023)%20S01%20EP06%20720p%20HD%20-%20Bolly2Tolly.wo
 https://maxhd.icu/Dhootha%20(2023)%20S01%20EP07%20720p%20HD%20-%20Bolly2Tolly.world.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dhootha S01 E08" tvg-logo="https://www.bolly2tolly.live/wp-content/uploads/2023/12/Dhootha-telugu-tv-show-online-bolly2tolly-185x275.jpg" group-title="Web Series",DhoothaS01E08
 https://maxhd.icu/Dhootha%20(2023)%20S01%20EP08%20720p%20HD%20-%20Bolly2Tolly.world.mp4
-#EXTM3U
+
+
 #EXTINF:-0 tvg-id="Telugu" group-title="Radio"  tvg-logo="https://www.radio.net/images/broadcasts/0c/bf/105309/1/c300.png",Radio City Bhakti
 https://stream-58.zeno.fm/2532fy6zrf9uv?zs=otQuUOufTueymnB-XuDkhw&listening-from-radio-garden=1667806138
 #EXTINF:-0 tvg-id="Telugu" group-title="Radio"  tvg-logo="https://img1.wsimg.com/isteam/ip/910009e1-2553-41a8-a95d-bae75756ed2f/blob-0002.png",Melody Radio Telugu
@@ -336,6 +337,20 @@ https://s.id/1ZCX7
 https://s.id/1ZATW
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/TY7Zch7j/Wonka-2023.jpg",Wonka (2023)
 https://s.id/20Dur
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@CINEMA_XXI",JOHN_WICK_CHAPTER.4_2023
+https://data01.mv21.cc/b/4/%5B480p%5DJohn.Wick.Chapter.4.2023.Blu-Ray-melongmovie.mp4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="ShareExt@CINEMA_XXI",JOY_RIDE_2023
+https://data01.mv21.cc/b/5/melongmovie.joy.ride.2023.web.480-muxed.mp4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="ShareExt@CINEMA_XXI",EXORCIST_BELIEVER_2023
+https://nontoncdn.com/DSI.The.Exorcist.Believer.2023.WEB.mp4
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pPWwX5X/Marvel-Logo-shareext.jpg" group-title="ShareExt@CINEMA_XXI",Bone_Cold_2023
+https://storage.googleapis.com/d249f8a596fb04.appspot.com/182da16ec7a0ea1b54f0eb8a48336ffb_1696041621.mp4?sumber=awal_storage
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/rHXtycmeBrCM5c5zyktp4KSyBjj.jpg" group-title="SHAREEXT@MOVIE 2023",Evil dead Rise 2023
+https://www.googleapis.com/drive/v3/files/1CljM1Ht_SBCUeX-J0Y-JdbpM6QhALtHF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="SHAREEXT@MOVIE 2023",Avatar the way of water 2023
+https://www.googleapis.com/drive/v3/files/1DOPyKO3tNIJWg0jljWmfze79yGlcmHwB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
 #EXTINF:-1 group-title="Avatar The Last Airbender (2005–2008)" tvg-logo="https://i.postimg.cc/3xqSNGBs/Avatar-The-Last-Airbender-S01.jpg",S01E01
 https://archive.org/download/avatar-the-last-airbender-s01/Avatar.The.Last.Airbender.S01E01.720p.BluRay.x264-Pahe.in.mkv
 #EXTINF:-1 group-title="Avatar The Last Airbender (2005–2008)" tvg-logo="https://i.postimg.cc/3xqSNGBs/Avatar-The-Last-Airbender-S01.jpg",S01E02
